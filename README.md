@@ -5,7 +5,7 @@ This is a simple Python script that merges multiple PDF files into one file. It 
 
 Install Python 3.x on your system.
 Clone this repository to your local machine using the following command:
-git clone https://github.com/yourusername/pdf-merger.git
+git clone https://github.com/CODEVDR/PDF_MERGER.git
 Navigate to the cloned repository directory:
 cd pdf-merger
 Place the PDF files you want to merge in the same directory as the pdf_merger.py script.
